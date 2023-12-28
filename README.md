@@ -1,3 +1,7 @@
+Temporary fork of Z2 to dx [#10674](https://github.com/yairm210/Unciv/issues/10674). 
+
+The process to split on a specific commit was codified, available as Win or Nix scripts `clone_repo` currently posted at https://github.com/hackedpassword/Unciv-Assets
+
 
 # Z2 : Zelda 2 for Unciv
 
